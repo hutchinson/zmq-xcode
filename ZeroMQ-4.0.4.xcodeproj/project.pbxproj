@@ -175,6 +175,7 @@
 		B0B88B4A19B79CCC008A1B0E /* zmq.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = zmq.h; sourceTree = "<group>"; };
 		B0B88B4B19B79CCC008A1B0E /* zmq_utils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = zmq_utils.h; sourceTree = "<group>"; };
 		B0B88B4C19B79DAA008A1B0E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		B0B88B7B19B7A726008A1B0E /* zmq.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = zmq.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -363,6 +364,7 @@
 		B0B88B4919B79CCC008A1B0E /* include */ = {
 			isa = PBXGroup;
 			children = (
+				B0B88B7B19B7A726008A1B0E /* zmq.hpp */,
 				B0B88B4A19B79CCC008A1B0E /* zmq.h */,
 				B0B88B4B19B79CCC008A1B0E /* zmq_utils.h */,
 			);
@@ -521,6 +523,7 @@
 				B0B88AA319B79CB0008A1B0E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

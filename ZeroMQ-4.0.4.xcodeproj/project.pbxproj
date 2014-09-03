@@ -1,0 +1,67 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXGroup section */
+		B0B88A9819B79B59008A1B0E = {
+			isa = PBXGroup;
+			children = (
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		B0B88A9919B79B59008A1B0E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+			};
+			buildConfigurationList = B0B88A9C19B79B59008A1B0E /* Build configuration list for PBXProject "ZeroMQ-4.0.4" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = B0B88A9819B79B59008A1B0E;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		B0B88A9D19B79B59008A1B0E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		B0B88A9E19B79B59008A1B0E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B0B88A9C19B79B59008A1B0E /* Build configuration list for PBXProject "ZeroMQ-4.0.4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B0B88A9D19B79B59008A1B0E /* Debug */,
+				B0B88A9E19B79B59008A1B0E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B0B88A9919B79B59008A1B0E /* Project object */;
+}

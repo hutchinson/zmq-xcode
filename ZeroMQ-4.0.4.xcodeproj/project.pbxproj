@@ -174,12 +174,14 @@
 		B0B88B4819B79CCC008A1B0E /* zmq_utils.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = zmq_utils.cpp; sourceTree = "<group>"; };
 		B0B88B4A19B79CCC008A1B0E /* zmq.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = zmq.h; sourceTree = "<group>"; };
 		B0B88B4B19B79CCC008A1B0E /* zmq_utils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = zmq_utils.h; sourceTree = "<group>"; };
+		B0B88B4C19B79DAA008A1B0E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		B0B88A9819B79B59008A1B0E = {
 			isa = PBXGroup;
 			children = (
+				B0B88B4C19B79DAA008A1B0E /* README.md */,
 				B0B88AA419B79CCC008A1B0E /* src */,
 				B0B88B4919B79CCC008A1B0E /* include */,
 				B0B88A9F19B79C1D008A1B0E /* build.py */,
